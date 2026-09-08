@@ -16,7 +16,7 @@ Passionate about building scalable backend systems, AI-powered applications, and
 ## 🛠️ Tech Stack
 
 **Languages**
-Python
+Python • C • C++
 
 **Backend**
 Django • FastAPI • Flask
