@@ -2,7 +2,7 @@
 
 # Hi, I'm Devasheesh Patidar 👋
 
-### Software Engineer · Backend Development · AI/ML · Python
+### Software Engineer · Backend Development · AI/ML · Python · Java
 
 <a href="https://github.com/devasheesh1112">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
